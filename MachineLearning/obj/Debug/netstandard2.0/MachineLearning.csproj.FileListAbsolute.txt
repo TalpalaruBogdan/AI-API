@@ -1,0 +1,8 @@
+C:\Users\bogda\source\repos\MachineLearning\MachineLearning\bin\Debug\netstandard2.0\MachineLearning.deps.json
+C:\Users\bogda\source\repos\MachineLearning\MachineLearning\bin\Debug\netstandard2.0\MachineLearning.dll
+C:\Users\bogda\source\repos\MachineLearning\MachineLearning\bin\Debug\netstandard2.0\MachineLearning.pdb
+C:\Users\bogda\source\repos\MachineLearning\MachineLearning\obj\Debug\netstandard2.0\MachineLearning.csprojAssemblyReference.cache
+C:\Users\bogda\source\repos\MachineLearning\MachineLearning\obj\Debug\netstandard2.0\MachineLearning.AssemblyInfoInputs.cache
+C:\Users\bogda\source\repos\MachineLearning\MachineLearning\obj\Debug\netstandard2.0\MachineLearning.AssemblyInfo.cs
+C:\Users\bogda\source\repos\MachineLearning\MachineLearning\obj\Debug\netstandard2.0\MachineLearning.dll
+C:\Users\bogda\source\repos\MachineLearning\MachineLearning\obj\Debug\netstandard2.0\MachineLearning.pdb
